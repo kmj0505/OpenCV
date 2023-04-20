@@ -1,0 +1,195 @@
+﻿  OpenCVAppGUIDlg.cpp
+D:\sample_opencv\thirdparty\opencv_470\build\include\opencv2\core.hpp(1747,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\sample_opencv\thirdparty\opencv_470\build\include\opencv2\core.hpp(1747,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\sample_opencv\thirdparty\opencv_470\build\include\opencv2\core.hpp(1747,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\sample_opencv\thirdparty\opencv_470\build\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\format(43): warning STL4038: The contents of <format> are available only with C++20 or later.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(514,32): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(517,48): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(528,32): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(531,48): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(542,32): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(545,48): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(556,32): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(559,48): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(714,30): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(719,31): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(724,28): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(756,30): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(761,31): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(766,28): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(969,30): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(975,31): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(981,28): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1018,30): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1023,31): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1028,28): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1140,28): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1157,37): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1157,70): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1167,41): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1168,59): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1178,40): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1179,40): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1184,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1185,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1186,49): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1187,49): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1217,28): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1233,37): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1233,70): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1243,41): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1244,59): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1254,40): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1255,40): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1260,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1261,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1262,49): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1263,49): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1373,39): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1459,34): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1464,29): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1574,40): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1575,58): warning C4267: '인수': 'size_t'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\sample_opencv\OpenCVAppGUI\OpenCVAppGUI\OpenCVAppGUIDlg.cpp(1576,51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OpenCVAppGUI.vcxproj -> D:\sample_opencv\OpenCVAppGUI\Build\x64\OpenCVAppGUId.exe
